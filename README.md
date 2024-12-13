@@ -44,9 +44,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Screenshot 2024-12-13 042036](https://github.com/user-attachments/assets/abdff00a-f93a-4e77-939a-e6a508c898ad)
-
-![Screenshot 2024-12-13 042147](https://github.com/user-attachments/assets/dfde9ada-1721-4c77-bdca-17a426b15241)
+![Screenshot 2024-12-13 042036](https://github.com/user-attachments/assets/7eb8f6cb-04ef-4e5f-9145-12f556ab67c4)
 
 ### Name: B. Dhanush kumar
 ### Register Number: 24900615
